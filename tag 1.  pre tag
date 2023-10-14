@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+
+	<!-- difference bitween p and pre tag  pre tag means preformatted text  hum is tag me jitne break jitne spaces dene vo browser pr vese hi show honge but p me asa nhi hota p me sb ek hi line me show hota hai jyadatr pre tag browser pr code how krne k liye use hota hai bcz spaces are important to show in code -->
+<p>
+	
+/third way
+
+
+$c[0]="red";
+$c[1]="blue";
+$c[2]="pink";
+$c[3]="yellow";
+
+
+
+print_r($a);
+
+
+
+for($i=0;$i<3;$i++){
+
+}
+
+
+	
+
+
+
+</p>
+
+<pre>
+
+	/third way
+
+
+$c[0]="red";
+$c[1]="blue";
+$c[2]="pink";
+$c[3]="yellow";
+
+
+
+print_r($a);
+
+
+
+for($i=0;$i<3;$i++){
+
+}
+
+
+	
+
+
+</pre>
+</body>
+</html>
